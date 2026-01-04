@@ -17,3 +17,5 @@ print(name.replace('I','O'))
 print(name.capitalize())
 # 1
 #2
+def my_function():
+    print("Hello from a function")
